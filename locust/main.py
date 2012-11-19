@@ -6,7 +6,6 @@ import sys
 import os
 import signal
 import inspect
-import time
 import logging
 from optparse import OptionParser
 
